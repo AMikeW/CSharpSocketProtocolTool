@@ -1,0 +1,27 @@
+{
+  "dataID": "3",
+  "structType": "Pack",
+  "className": "Student",
+  "memberDataList": [
+    {
+      "val_describe": "默认备注",
+      "val_name": "studentName",
+      "val_type": "string"
+    },
+    {
+      "val_describe": "默认备注",
+      "val_name": "sex",
+      "val_type": "string"
+    },
+    {
+      "val_describe": "默认备注",
+      "val_name": "hoby",
+      "val_type": "string"
+    },
+    {
+      "val_describe": "默认备注",
+      "val_name": "score",
+      "val_type": "float"
+    }
+  ]
+}

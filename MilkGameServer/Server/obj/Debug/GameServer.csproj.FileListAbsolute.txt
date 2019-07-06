@@ -1,0 +1,2 @@
+G:\服务器-应用控制台程序\GameServer\Server\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+G:\服务器-应用控制台程序\GameServer\Server\obj\Debug\GameServer.csproj.CoreCompileInputs.cache

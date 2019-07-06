@@ -1,0 +1,1 @@
+{"dataID":"1","structType":"UnPack","className":"User","memberDataList":[{"val_describe":"默认备注","val_name":"userID","val_type":"int"},{"val_describe":"默认备注","val_name":"userName","val_type":"string"},{"val_describe":"默认备注","val_name":"userPassword","val_type":"string"},{"val_describe":"默认备注","val_name":"photo","val_type":"string"}]}

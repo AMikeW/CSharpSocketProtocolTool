@@ -1,0 +1,1 @@
+{"protocolID":"1","protocolName":"LoginProtocolData","packMemberArr":[{"val_describe":"默认备注","val_name":"user","val_type":"User"}],"unPackMemberArr":[{"val_describe":"","val_name":"student","val_type":"Student"},{"val_describe":"默认备注","val_name":"number","val_type":"int"}]}

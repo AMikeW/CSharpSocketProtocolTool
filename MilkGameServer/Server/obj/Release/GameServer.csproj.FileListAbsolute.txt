@@ -1,0 +1,13 @@
+G:\服务器-应用控制台程序\GameServer\Server\obj\Release\GameServer.csproj.CoreCompileInputs.cache
+G:\服务器-应用控制台程序\GameServer\Server\bin\Release\GameServer.exe.config
+G:\服务器-应用控制台程序\GameServer\Server\bin\Release\GameServer.exe
+G:\服务器-应用控制台程序\GameServer\Server\bin\Release\GameServer.pdb
+G:\服务器-应用控制台程序\GameServer\Server\obj\Release\GameServer.exe
+G:\服务器-应用控制台程序\GameServer\Server\obj\Release\GameServer.pdb
+G:\服务器-应用控制台程序\MilkGameServer\Server\bin\Release\GameServer.exe.config
+G:\服务器-应用控制台程序\MilkGameServer\Server\bin\Release\GameServer.exe
+G:\服务器-应用控制台程序\MilkGameServer\Server\bin\Release\GameServer.pdb
+G:\服务器-应用控制台程序\MilkGameServer\Server\obj\Release\GameServer.csprojResolveAssemblyReference.cache
+G:\服务器-应用控制台程序\MilkGameServer\Server\obj\Release\GameServer.csproj.CoreCompileInputs.cache
+G:\服务器-应用控制台程序\MilkGameServer\Server\obj\Release\GameServer.exe
+G:\服务器-应用控制台程序\MilkGameServer\Server\obj\Release\GameServer.pdb
